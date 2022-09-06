@@ -1,0 +1,58 @@
+header,
+footer {
+    width: 100% height:92px;
+    padding: 23px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border: 3px solid gray;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.comp {
+    background-color: #CFD8DC;
+    font-size: 25px;
+    border-radius: 40px;
+    height: 500px;
+    padding: 10px;
+    width: 1000px;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+}
+
+.input {
+    width: 300px;
+    float: left;
+    padding-left: 5px;
+}
+
+.study {
+    margin-left: 350px;
+    padding-left: 10px;
+    height: 92px;
+    padding: 23px;
+    font-size: 20px;
+}
+
+.lens_result {
+    color: purple;
+    height: px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.mobilenet_result {
+    color: red;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.output {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
